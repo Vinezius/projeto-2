@@ -1,0 +1,1 @@
+Será necessário rodar um ````npm i``` ou ```yarn``` no terminal para fazer a instalação das libs necessárias em ambos diretórios, tanto 'api' quanto 'client'.
